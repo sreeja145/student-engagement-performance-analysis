@@ -110,35 +110,12 @@ Lower engagement during the first 30 days was frequently associated with lower p
 ---
 
 ## Tableau Dashboard
-[Insert Tableau Dashboard Link Here]
-
----
-
-## Project Structure
-
-```bash
-├── README.md
-├── data_cleaning.ipynb
-├── eda_analysis.ipynb
-├── requirements.txt
-├── tableau_dashboard_screenshots/
-└── visualizations/
-```
+[https://public.tableau.com/app/profile/n.sreeja/viz/AcademicSuccessEfficiencyDashboard/ProjectOverview]
 
 ---
 
 ## Sample Dashboard Screenshots
-(Add dashboard screenshots here)
-
----
-
-## Future Improvements
-- Build predictive models for withdrawal risk
-- Develop student segmentation models
-- Perform time-series engagement analysis
-- Deploy dashboard using Streamlit or Power BI
-
----
+(
 
 ## Author
 Sreeja N

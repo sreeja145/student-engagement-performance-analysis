@@ -114,8 +114,5 @@ Lower engagement during the first 30 days was frequently associated with lower p
 
 ---
 
-## Sample Dashboard Screenshots
-(
-
 ## Author
 Sreeja N
